@@ -125,7 +125,7 @@ start /wait defrag /C
 timeout /t 5 /nobreak
 
 REM ******************** REINICIALIZAÇÃO ********************
-echo Ass.: Leonardo Rodrigues - Analista de Suporte - Fictix
+echo Ass.: Leonardo Rodrigues - ######## ## ####### - ######
 timeout /t 5 /nobreak
 start /wait shutdown /r /t 0
 
