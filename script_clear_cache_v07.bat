@@ -3,7 +3,7 @@ chcp 65001
 
 REM @ SCRIPT PARA LIMPEZA E OTIMIZAÇÃO DE OS WINDOWS
 REM @
-REM @ Versão 05 - 24/11/2023
+REM @ Versão 07 - 26/12/2023
 REM @ - Remoção de mais arquivos temporários do Windows, navegadores e cclear, além da otimização e limpeza de disco.
 
 REM ******************** ELIMINANDO CCLEAR ********************
